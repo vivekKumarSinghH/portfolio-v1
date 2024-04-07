@@ -1,0 +1,139 @@
+{
+    "user": {
+        "name": "Vivek Kumar",
+        "tagline": "I fell in love with programming and I have at least learnt something, I think…  /n      I am fluent in classics like C++, Javascript and Go. /n  My field of Interest's are building new Web Technologies and Products. /n    Whenever possible, I also apply my passion for developing products with Node.js and Modern Javascript Library and Frameworks  like React.js and Next.js",
+        "opensource_motto": "I am dedicated to creating libraries and tools to support the developer community and enhance existing projects. Feel free to explore my GitHub profile for insights into my contributions and ongoing projects.",
+        "resume": "/assets/vivek-ui-engineer-2.5YOE.pdf",
+        "github": "https://github.com/vivekKumarSinghH",
+        "linkedin": "https://www.linkedin.com/in/vivek-kumar-54a048223/",
+        "medium": "https://medium.com/@vivekkumar07",
+        "leetcode": "https://leetcode.com/VivekXdev/",
+        "x": "https://twitter.com/KUMARxVIVEK",
+        "email": "vivekkumarxdev@gmail.com"
+    },
+    "projects": [
+        {
+            "title": "Touropia",
+            "description": "TourOpia is a webapp to get information about famous tourist spots. User can post blogs and read read others blogs.",
+            "techstack": "Powered by React, Redux Toolkit, and mdb-react-UI-kit ,with Express and MongoDB",
+            "link": "https://touropiac.netlify.app",
+            "github": "https://github.com/vivekKumarSinghH/Touropia",
+            "video": "https://www.youtube.com/watch?v=uhfb-yOOClU",
+            "poster": "/assets/touropia.png"
+        },
+        {
+            "title": "Buy-books",
+            "description": "Buy book is the online book store from where you can order wide variety of book. It allows searching, sorting and filtering of books based on price, genre.",
+            "techstack": "Powered by React, Redux Toolkit, and Material-UI , with Express and MongoDB",
+            "link": "https://buy-book-beta.vercel.app",
+            "github": "https://github.com/vivekKumarSinghH/buy-book",
+            "video": "https://www.youtube.com/watch?v=0zbP1-eka_o",
+            "poster": "/assets/buybook.png"
+        },
+        {
+            "title": "Sandesh",
+            "description": "Sandesh is a real time one to one chat application, here you can send message to anyone who is online currently.",
+            "techstack": "Built in  react, styled components, socket.io, Jwt, with Express and MongoDB",
+            "link": "https://sandesh-frontend.vercel.app",
+            "github": "https://github.com/vivekKumarSinghH/sandesh-chat-app",
+            "video": "https://user-images.githubusercontent.com/72158561/168902396-307fdc9b-4a27-4689-99bb-dcd57519b0b1.mp4",
+            "poster": "/assets/sandesh.png"
+        },
+        {
+            "title": "Apple",
+            "description": "Clone of Apple.com. Displays product portfolio.",
+            "techstack": "Powered by React and Tailwind CSS",
+            "link": "https://apple-clone-shersha.netlify.app",
+            "github": "https://github.com/vivekKumarSinghH/apple-react-clone",
+            "video": "",
+            "poster": "/assets/apple.png"
+        },
+        {
+            "title": "Snapdeal",
+            "description": "Clone of Snapdeal.com. Displays their product portfolio.",
+            "techstack": "Powered by HTML, CSS, Javascript and Express and MongoDB",
+            "link": "https://snapdeal-clone-zeta.vercel.app",
+            "github": "https://github.com/vivekKumarSinghH/spandeal-clone",
+            "video": "",
+            "poster": "/assets/snapdeal.png"
+        },
+        {
+            "title": "Boat",
+            "description": "Clone of https://www.boat-lifestyle.com/. Displays their product portfolio.",
+            "techstack": "Powered by HTML, CSS, Javascript and DOM manipulation",
+            "link": "https://zen-noether-1c54bb.netlify.app",
+            "github": "https://github.com/vivekKumarSinghH/boat-clone",
+            "video": "",
+            "poster": "/assets/boat.png"
+        }
+    ],
+    "experiences": [
+        {
+            "title": "Software Engineer - CardByte.ai",
+            "description": [
+                "Led the end-to-end development journey of a robust web application using React.js, Redux, and React Hook Form, guiding it from conceptualization to successful deployment.",
+                "Collaborated closely with cross-functional product teams, adeptly gathering requirements and transforming them into intuitive and responsive UI components using HTML, CSS, and JavaScript.",
+                "Engineered seamless state management solutions with Redux, ensuring efficient data flow and enhancing user interactions.",
+                "Seamlessly integrated diverse third-party libraries and packages, including Calendar and Firebase, to enrich the application's functionalities.",
+                "Spearheaded the development of a multitenant SaaS application using React Redux Toolkit, demonstrating adeptness in managing complex state and scalability challenges.",
+                "Pioneered the establishment of automated unit and integration tests using Jest and React Testing Library, fortifying code reliability and fostering a culture of quality assurance."
+            ],
+            "website": "https://www.cardbyte.ai/enterprise",
+            "badge": "✦ Experience",
+            "image": "",
+            "date": "May 2022- Present"
+        },
+        {
+            "title": "Full Stack Web Development - Masai School",
+            "website": "https://www.masaischool.com/",
+            "description": [
+                "Built robust and scalable applications using the MERN stack.",
+                "Implemented modular and maintainable code structures for both frontend and backend.",
+                "Utilized advanced concepts in React.js, Redux, Express.js, and MongoDB to create dynamic and responsive user interfaces.",
+                "Integrated authentication and authorization features for secure user interactions.",
+                "Developed RESTful APIs and gained understanding of the principles of CRUD operations."
+            ],
+            "badge": "✦ Education",
+            "image": "",
+            "date": "Aug 2021 - May 2022"
+        },
+        {
+            "website": "https://www.hansrajcollege.ac.in/",
+            "title": "BSc.(hons.) Electronics - Hansraj college,Delhi University",
+            "date": "July 2018 - May 2021"
+        }
+    ],
+    "skills": [
+        {
+            "category": "Frontend",
+            "items": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "React",
+                "Redux",
+                "Next.js"
+            ]
+        },
+        {
+            "category": "Backend",
+            "items": [
+                "Node.js",
+                "Express",
+                "Django",
+                "MongoDB",
+                "Firebase"
+            ]
+        },
+        {
+            "category": "Others",
+            "items": [
+                "Git",
+                "RESTful APIs",
+                "GraphQL",
+                "CI/CD",
+                "Agile"
+            ]
+        }
+    ]
+}
