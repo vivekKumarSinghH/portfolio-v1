@@ -71,12 +71,13 @@
         {
             "title": "Software Engineer - CardByte.ai",
             "description": [
-                "Led the end-to-end development journey of a robust web application using React.js, Redux, and React Hook Form, guiding it from conceptualization to successful deployment.",
-                "Collaborated closely with cross-functional product teams, adeptly gathering requirements and transforming them into intuitive and responsive UI components using HTML, CSS, and JavaScript.",
-                "Engineered seamless state management solutions with Redux, ensuring efficient data flow and enhancing user interactions.",
-                "Seamlessly integrated diverse third-party libraries and packages, including Calendar and Firebase, to enrich the application's functionalities.",
-                "Spearheaded the development of a multitenant SaaS application using React Redux Toolkit, demonstrating adeptness in managing complex state and scalability challenges.",
-                "Pioneered the establishment of automated unit and integration tests using Jest and React Testing Library, fortifying code reliability and fostering a culture of quality assurance."
+                "Lead the end-to-end development journey of robust multi-tenant SaaS application using React.js, Redux-toolkit, SCSS and React-Hook-Form guiding it from conceptualization to successful deployment.",
+                "Collaborated closely with product team, adeptly gathering requirements and transforming them into modular and reusable UI components.",
+                "Integrated firebase for seamless authentication and real-time notifications, streamlined contact sharing via Dynamic Links.",
+                " Engineered innovative solutions, including a user invitation system with bulk invites via Excel and Azure AD integration. Additionally developed many complex features like custom templates for cards and email signatures akin to platforms like Canva.",
+                "Achieved a remarkable 75% code coverage through rigorous testing with jest and React Testing Library.",
+                " Implemented React optimization techniques, such as lazy loading, memorization, and code splitting resulting in an impressive 70% improvement in web app load time while ensuring seamless mobile compatibility.",
+                " Ensured data security through API communication, implemented role-based and organization-based data access controls."
             ],
             "website": "https://www.cardbyte.ai/enterprise",
             "badge": "✦ Experience",

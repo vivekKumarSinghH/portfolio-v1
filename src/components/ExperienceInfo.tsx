@@ -27,7 +27,7 @@ export function ExperienceInfo() {
             <div className="text-2-1 prose prose-sm dark:prose-invert">
               {item?.description &&
                 item?.description.map((des, index) => (
-                  <ul className="list-disc ml-6" key={index + "dd"}>
+                  <ul className="list-disc ml-6 mt-1" key={index + "dd"}>
                     <li>{des}</li>
                   </ul>
                 ))}
